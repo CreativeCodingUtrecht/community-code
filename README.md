@@ -72,7 +72,7 @@ Click here for the code of the [**Behind the Screens Season 1 & 2**](https://git
 1. Fork this repository (click `fork` in the top right)
 2. Clone the repository to your computer `git clone https://github.com/<this-is-you>/<forked-repo>.git`
 3. Branch the Fork `git checkout -b <name-your-branch>`
-4. Add a folder with your `name-lastname` or `artistname` and put in all your coded files
+4. Add a folder with your `name-lastname` or `artistname` in the `season-x` folder and put in all your coded files
 5. Add your name and link to the `README.md` under [The Community](#the-community) section
 6. Add, commit and push your changes `git add .` `git commit -a` `git push origin <your-branch-name>`
 7. Go to your forked repo in the browser and click `compare & pull request`, then `create pull request`
