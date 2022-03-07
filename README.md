@@ -4,11 +4,11 @@ A repository filled with code shared by the community during coding sessions and
 
 # Content
 
-- [Previously](#⌛️-previously)
-- [The Community](#👋-the-community)
-- [Interviews](#💬-behind-the-screens-interviews)
-- [Videos](#📟-behind-the-screens-videos)
-- [Contribution](#📝-contribution)
+- [Previously](#-previously)
+- [The Community](#-the-community)
+- [Interviews](#-behind-the-screens-interviews)
+- [Videos](#-behind-the-screens-videos)
+- [Contribution](#-contribution)
 
 ## ⌛️ Previously
 
