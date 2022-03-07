@@ -8,6 +8,8 @@ Click here for the code of the [**Behind the Screens Season 1 & 2**](https://git
 
 ## 👋 The Community
 
+- Mynah Marie : [*@mynah_m*](https://www.instagram.com/mynah_m)
+- Kate Sicchio : [*@sicchio*](https://www.sicchio.com)
 - Lucy Cheesman : [*@Heavy Lifting*](https://heavy-lifting.org/)
 - Jia Liu : [*@luiiuuuiiiii*](https://twitter.com/luiiuuuiiiii)
 - Francesco Corvi : [@nesso](https://www.instagram.com/nesso.xyz/)
@@ -36,6 +38,8 @@ Click here for the code of the [**Behind the Screens Season 1 & 2**](https://git
 
 ## 💬 Behind the Screens (Interviews)
 
+- [Mynah Marie (Earth to Abigail) - coming soon...]()
+- [Kate Sicchio - coming soon...]()
 - [Lucy Cheesman (Heavy Lifting)](https://medium.com/behind-the-screens-challenge/behind-the-screens-heavy-lifting-ddcbda2d374)
 - [Jia Liu](https://medium.com/behind-the-screens-challenge/behind-the-screens-jia-liu-44aa001b48cf)
 - [Francesco Corvi (Nesso)](https://medium.com/behind-the-screens-challenge/behind-the-screens-nesso-7b68cb70d594)
