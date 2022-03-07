@@ -2,6 +2,14 @@
 
 A repository filled with code shared by the community during coding sessions and from-scratch challenges as part of the *Behind the Screens* series.
 
+# Content
+
+- [Previously](#⌛️-previously)
+- [The Community](#👋-the-community)
+- [Interviews](#💬-behind-the-screens-interviews)
+- [Videos](#📟-behind-the-screens-videos)
+- [Contribution](#📝-contribution)
+
 ## ⌛️ Previously
 
 Click here for the code of the [**Behind the Screens Season 1 & 2**](https://github.com/netherlands-coding-live/community-code)
