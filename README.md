@@ -16,6 +16,7 @@ Click here for the code of the [**Behind the Screens Season 1 & 2**](https://git
 
 ## 👋 The Community
 
+- Raphaël Bastide: [*@raphaelbastide*](https://raphaelbastide.com/)
 - Antonio Roberts : [*hellocatfood*](https://hellocatfood.com)
 - Devine Lu Levinga (alicef) : [*@alicef*](https://wiki.xxiivv.com/site/home.html)
 - Mynah Marie (Earth to Abigail) : [*@mynah_m*](https://www.instagram.com/mynah_m)
@@ -48,6 +49,8 @@ Click here for the code of the [**Behind the Screens Season 1 & 2**](https://git
 
 ## 💬 Behind the Screens (Interviews)
 
+- [Mamady Diarra (AFALFL) - coming soon...]()
+- [Raphael Bastide - coming soon...]()
 - [Antonio Roberts (hellocatfood) - coming soon...]()
 - [Devine Lu Levinga (alicef) - coming soon...]()
 - [Mynah Marie (Earth to Abigail) - coming soon...]()
